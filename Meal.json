@@ -1,0 +1,95 @@
+{
+    "id": 1,
+    "name": "FitApp",
+    
+    "menu": {
+        "Food": [
+            
+            {
+                "id": 1,
+                "name": "Tomaten",
+                "outlet": "200 g",
+                "protein": "2",
+                "calories": "600",
+                "category": "Gemuse"
+            },
+            {
+                "id": 2,
+                "name": "Karoten",
+                "outlet": "300 g",
+                "protein": "5",
+                "calories": "1000",
+                "category": "Gemuse"
+            },
+            {
+                "id": 3,
+                "name": "Apfel",
+                "outlet": "200 g",
+                "protein": "5",
+                "calories": "1000",
+                "category": "Obst"
+            },
+            {
+                "id": 4,
+                "name": "Rindfleisch",
+                "outlet": "300 g",
+                "protein": "50",
+                "calories": "1200",
+                "category": "mit Fleisch"
+            },
+            {
+                "id": 5,
+                "name": "Hünchenfleisch",
+                "outlet": "350 g",
+                "protein": "60",
+                "calories": "1250",
+                "category": "mit Fleisch"
+            }
+            ,
+            {
+                
+                "id": 6,
+                "name": "Milch",
+                "outlet": "300 ml",
+                "protein": "8",
+                "calories": "300",
+                "category": "Trinken"
+            }
+            ,      {
+                
+                "id": 7,
+                "name": "Saft",
+                "outlet": "300 ml",
+                "protein": "2",
+                "calories": "100",
+                "category": "Trinken"
+            }
+          
+          ,   {
+              "id": 9,
+              "name": "Toping",
+              "outlet": "223 g",
+              "protein": "30",
+              "calories": "1000",
+              "category": "Suessigkeiten"
+          }   ,
+            {
+                "id": 9,
+                "name": "Eis",
+                "outlet": "223 g",
+                "protein": "30",
+                  "calories": "1000",
+                "category": "Suessigkeiten"
+            },
+            {
+                "id": 10,
+                "name": "Chocolade",
+                "outlet": "223 g",
+                "protein": "30",
+                "calories": "1000",
+                "category": "Suessigkeiten"
+            }
+            
+        ],
+    }
+}
